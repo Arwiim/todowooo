@@ -9,3 +9,7 @@ db.sqlite3
 *.sqlite3
 .sqlite3
 /collected_static/
+.DS_Store
+*.DS_Store
+applications/.DS_Store
+applications/todo/.DS_Store
