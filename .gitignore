@@ -1,0 +1,11 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+todowooo/__pycache__/
+applications/todo/migrations/
+applications/todo/__pycache__/
+db.sqlite3
+*.sqlite3
+.sqlite3
+/collected_static/
